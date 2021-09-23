@@ -125,6 +125,19 @@
     .footer__content{
         padding: 0 16px;
     }
+    .center{
+        text-align: center;
+    }
+    .footer_heading{
+        text-align: center;
+    }
+    .footer__download,
+    .footer__item-link{
+        justify-content: center;
+    }
+    .footer__download-apps{
+        flex: unset;
+    }
     @keyframes mobileSearchSideIn{
         from{
             opacity: 0;
